@@ -1,8 +1,8 @@
 **Terraform-Complete-MultiResource-AppDeployment**  
 
-This projects is completely configured as infrastructre as code from terraform script which shows automation
+This projects is completely configured as infrastructure as code from terraform script which shows automation
 of web application deployment and creation of various aws resources which include AWS INSTANCE, REMOTE-EXEC, S3 BUCKET (which will save backend.tf),
-VPC, SUBNETS(public & privtae), Internet Gateway, Route tables & Association table.
+VPC, SUBNETS(public & private), Internet Gateway, Route tables & Association table.
 
 **Requirements:**
 
